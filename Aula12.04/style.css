@@ -1,0 +1,32 @@
+header{
+    background-color: rgb(20, 20, 20);
+    color: blanchedalmond;
+    text-align: center;
+}
+.introducao{
+    background-color: cadetblue;
+    color: red;
+}
+body{
+    background: linear-gradient(to left, #0ede0b, #a2d8a1);
+    font-family: Lucida Sans Regular;
+}
+.descricao{
+    background-color: rgb(226, 226, 3);
+    color: rgb(204, 133, 1);
+}
+.p-descricao:hover{
+    color: blueviolet;
+}
+footer{
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+}
+.li-navbar{
+    list-style: none;
+    display: inline-block;
+}
+.li-navbar:hover{
+    color: chocolate;
+}
